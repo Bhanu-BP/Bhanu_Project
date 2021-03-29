@@ -3,3 +3,4 @@ Always he is a king
 And he is a Ruler
 
 This is Feature 1 Branch FC1
+This is Feature 2 Branch FC2
