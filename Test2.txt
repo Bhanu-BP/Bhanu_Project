@@ -1,0 +1,2 @@
+This is first git class learning
+need to complete in 3 weeks total devops course
