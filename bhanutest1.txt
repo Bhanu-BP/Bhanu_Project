@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 I dont know what im doing
 here after im decided something to do daily
 tring aswellas
 before something need to do
 thats it
+=======
+fkskjfsdfsdfksjf
+>>>>>>> feature2
